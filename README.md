@@ -1,7 +1,7 @@
 # IPS Patcher in CPP
 Some random IPS patcher made in C++ *for fun*.
 
-For the explanation of the IPS format, check out [FORMAT.md](FORMAT.md); thanks to [justsolve.archiveteam.org](justsolve.archiveteam.org/wiki/IPS_(binary_patch_format)).
+For the explanation of the IPS format, check out [FORMAT.md](FORMAT.md); thanks to [justsolve.archiveteam.org](http://justsolve.archiveteam.org/wiki/IPS_(binary_patch_format)).
 
 # Usage
 The program has a few arguments you can pass to it, like:
